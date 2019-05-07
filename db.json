@@ -1,0 +1,98 @@
+{
+    "slike": [{
+            "id": 1,
+            "descriptionId": 1,
+            "name": "picture",
+            "category": "smestaj",
+            "img1Url": "img/smestaj/1_apartman.jpg"
+        },
+        {
+            "id": 2,
+            "descriptionId": 1,
+            "name": "picture",
+            "category": "smestaj",
+            "img1Url": "img/smestaj/2_dvokrevetna_soba.jpg"
+        },
+        {
+            "id": 3,
+            "descriptionId": 1,
+            "name": "picture",
+            "category": "smestaj",
+            "img1Url": "img/smestaj/3_jednokrevetna_soba.jpg"
+        },
+        {
+            "id": 4,
+            "descriptionId": 1,
+            "name": "picture",
+            "category": "smestaj",
+            "img1Url": "img/smestaj/4_kupatilo.jpg"
+        },
+        {
+
+            "id": 5,
+            "descriptionId": 2,
+            "name": "picture",
+            "category": "restoran",
+            "img1Url": "img/restoran/domaca_kafica2.jpg"
+        },
+        {
+            "id": 6,
+            "descriptionId": 2,
+            "name": "picture",
+            "category": "restoran",
+            "img1Url": "img/restoran/mesano_meso.jpg"
+        },
+        {
+            "id": 7,
+            "descriptionId": 2,
+            "name": "picture",
+            "category": "restoran",
+            "img1Url": "img/restoran/predjelo.jpg"
+        },
+        {
+            "id": 8,
+            "descriptionId": 2,
+            "name": "picture",
+            "category": "restoran",
+            "img1Url": "img/restoran/restoran.jpg"
+        },
+        {
+            "id": 9,
+            "descriptionId": 3,
+            "name": "picture",
+            "category": "aktivnost",
+            "img1Url": "img/beograd/Hram_Svetog_Save1.jpg"
+        }, {
+            "id": 10,
+            "descriptionId": 3,
+            "name": "picture",
+            "category": "aktivnost",
+            "img1Url": "img/beograd/pobednik.jpg"
+        }, {
+            "id": 11,
+            "descriptionId": 3,
+            "name": "picture",
+            "category": "aktivnost",
+            "img1Url": "img/beograd/restoran.jpg"
+        }, {
+            "id": 12,
+            "descriptionId": 3,
+            "name": "picture",
+            "category": "aktivnost",
+            "img1Url": "img/beograd/savamala.jpg"
+        }
+    ],
+    "slike_opis": [{
+            "id": 1,
+            "text": "tekst za smestaj."
+        }, {
+            "id": 2,
+            "text": "tekst za restoran."
+        },
+        {
+            "id": 3,
+            "text": "tekst za aktivnosti."
+        }
+    ]
+
+}
