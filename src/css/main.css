@@ -33,6 +33,7 @@
         font-weight: 700;
         font-size: .8rem;
         letter-spacing: 0.1px;
+        cursor: pointer;
     }
     
     .navbar-brand img {

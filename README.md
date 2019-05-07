@@ -13,7 +13,7 @@ Pored HTML-a, CSS-a i JS kojima su izgrađene i stilizovane stranice koristila s
     -json-server
 
  # Struktura projekta
-      MOTEL FINAL
+      MOTEL_FINAL
        img
        src
          css
@@ -47,9 +47,3 @@ Pored HTML-a, CSS-a i JS kojima su izgrađene i stilizovane stranice koristila s
  1. otvoriti u browser-u html stranicu motel.html
  
 
-
-
-
-
-"# motel-final" 
-"# motel-final" 

@@ -113,6 +113,7 @@ li {
     border-radius: 4px;
     border: 10px solid #03091d5f;
     margin-top: 0.8rem;
+    cursor: pointer;
 }
 
 .text {
