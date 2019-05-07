@@ -26,7 +26,7 @@ $(document).ready(function() {
                 $("#ime_error_poruka").hide();
                 $("#ime").css("border-botton", "2px solid #34F458");
             } else {
-                $("#ime_error_poruka").html("treba da sadrži samo slova");
+                $("#ime_error_poruka").html("Treba da sadrži samo slova");
                 $("#ime_error_poruka").show();
                 $("#ime").css("border-botton", "2px solid #F90A0A");
                 error_ime = true;
@@ -40,7 +40,7 @@ $(document).ready(function() {
                 $("#prezime_error_poruka").hide();
                 $("#prezime").css("border-botton", "2px solid #34F458");
             } else {
-                $("#prezime_error_poruka").html("treba da sadrži samo slova");
+                $("#prezime_error_poruka").html("Treba da sadrži samo slova");
                 $("#prezime_error_poruka").show();
                 $("#prezime").css("border-botton", "2px solid #F90A0A");
                 error_prezime = true;
@@ -54,7 +54,7 @@ $(document).ready(function() {
                 $("#email_error_poruka").hide();
                 $("#email").css("border-botton", "2px solid #34F458");
             } else {
-                $("#email_error_poruka").html("nevažeći email");
+                $("#email_error_poruka").html("Nevažeći email");
                 $("#email_error_poruka").show();
                 $("#email").css("border-botton", "2px solid #F90A0A");
                 error_email = true;
@@ -70,10 +70,10 @@ $(document).ready(function() {
             check_prezime();
 
             if (error_email === false && error_ime === false && error_prezime === false) {
-                alert("rezervacija je uspešna");
+                alert("Rezervacija je uspešna");
                 return true;
             } else {
-                alert("molimo vas popunite formu");
+                alert("Molimo vas popunite formu");
                 return false;
             }
         })
