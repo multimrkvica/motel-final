@@ -9,7 +9,7 @@ Zamišljeno je da to bude mali, moderan motel za domaće i strance, u centru gra
 
  -HOME strane, ili u html-u nazvane motel.html .
 
- Koja počinje sa scrolll navbarom, koji jasno pokazuje gde smo kako skrolujemo i klikom može tačno da se ode na željenu sekciju strane,
+ Koja počinje sa scroll navbarom, koji jasno pokazuje gde smo kako skrolujemo i klikom može tačno da se ode na željenu sekciju strane,
  sekcije same strne su:
 
  -home
@@ -48,7 +48,7 @@ Zamišljeno je da to bude mali, moderan motel za domaće i strance, u centru gra
  Site je responzivan.
 
 
-# tehnike koje su korišćene u projektu
+# Tehnike koje su korišćene u projektu
 Pored HTML-a, CSS-a i JS kojima su izgrađene i stilizovane stranice koristila sam Bootstrap framework za lakše stilizovanje sajta, pored toga sam uključila Axsios zbog asinhronih funkcija i jQuery.
 
  # Dodatne tehnike 
