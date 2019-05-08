@@ -2,7 +2,7 @@
 ![GitHub Logo](/img/logo-motel_belgrade.png)
 # motelBELGRADE - website
 
-### Website za motel sa restoranom u Beogrdu sa rezervacijom soba.
+### Website za motel sa restoranom i rezervacijom soba.
 Zamišljeno je da to bude mali, moderan motel za domaće i strance, u centru grada, sa odličnim internetom, dobrim restoranom pogodnim za organizovanje ručkova i poslovnih sastanka do 40 ljudi.
 
 # Website se sastoji iz nekoliko stranica:
